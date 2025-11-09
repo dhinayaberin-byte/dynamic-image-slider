@@ -15,7 +15,7 @@ program.md(below)
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
+      justify-content: center; 
       height: 100vh;
       margin: 0;
       background: #f1f1f1;
